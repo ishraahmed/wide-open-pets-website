@@ -1,0 +1,2 @@
+# wide-open-pets-website
+Its a website where the user can post ads of animals in following 6 categories: buy,sell,adopt,give up on adoption,found and lost.NGOs can make up their profiles and add events which will be displayed to all users and users can view NGO's profiles.Only logged in user will be able to complain about posted Ads or users along with the reason and the admin will then review complains and take appropriate actions such as removing Ad or user that posted the Ad. Local server is used as database.
